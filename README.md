@@ -17,11 +17,11 @@ npm install hardhat
 npx hardhat init
 ```
 
-###Video
+### Video
 
 ```
-0:00 Introduction
-0:35 Project Setup
+0:00 Introduction ✔️
+0:35 Project Setup ✔️
 1:54 Deploying an EntryPoint Contract
 10:14 Build the Smart Account Contract
 15:03 Create the Smart Account Factory Contract
